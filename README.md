@@ -36,6 +36,8 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 <a href="nkt-sample-storage-migration-lab-documentation.pdf" target="_blank"> Updated custom built storage server to a more robust platform storage server </a>
 
 <a href="nkt-sample-proxmox-vm-clusters.pdf" target="_blank"> Enterprise Proxmox Virtual Environment - Kubernetes Cluster - proof of concept build </a>
+
+<a href="nkt-sample-ai-llm-nonkubernetes-cluster-build.pdf" target="_blank"> AI LLM Cluster build - non kubernetes, 3 nodes with single and distributed configurations </a>
 <br>
 <br>
 

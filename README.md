@@ -38,6 +38,8 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 <a href="nkt-sample-proxmox-vm-clusters.pdf" target="_blank"> Enterprise Proxmox Virtual Environment - Kubernetes Cluster - proof of concept build </a>
 
 <a href="nkt-sample-ai-llm-nonkubernetes-cluster-build.pdf" target="_blank"> AI LLM Cluster build - non kubernetes, 3 nodes with single and distributed configurations </a>
+
+<a href="nkt-sample-hpc-ha-cluster-build.pdf" target="_blank"> HPC/HA Linux Cluster - proof of concept build </a>
 <br>
 <br>
 

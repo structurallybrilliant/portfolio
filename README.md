@@ -42,6 +42,10 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 <a href="nkt-sample-hpc-ha-cluster-build.pdf" target="_blank"> HPC/HA Linux Cluster - proof of concept build </a>
 
 <a href="nkt-sample-storage-architecture-redeployment-proposal.pdf" target="_blank"> Redesign of Storage Architecture Framework for Resiliency </a>
+
+<a href="nkt-sample-sr680-rack-power-layout-concerns.pdf" target="_blank"> Rack Power layout audit of AI systems (8 gpu clusters)  of h200, h100, b200, mi300x </a>
+
+<a href="nkt-sample-sr680-current-rack-inventory.pdf" target="_blank"> Inventory audit of existing deployed AI systems </a>
 <br>
 <br>
 

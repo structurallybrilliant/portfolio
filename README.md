@@ -37,7 +37,7 @@ AI / HPC RELATED:
 
 <a href="nkt-sample-b200-setup.pdf" target="_blank"> Bringing up a bare metal million dollar B200 system </a>
 
-<a href="nkt-sample-ai-fleet-maintenance" target="_blank"> Evidence of AI Fleet Maintenance work </a>
+<a href="nkt-sample-ai-fleet-maintenance.pdf" target="_blank"> Evidence of AI Fleet Maintenance work </a>
 
 <a href="nkt-sample-sr680-rack-power-layout-concerns.pdf" target="_blank"> Rack power layout audit of AI systems (8 gpu clusters)  of h200, h100, b200, mi300x </a>
 

@@ -19,7 +19,7 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 <br>
 <br>
 <br>
-<a href="nkt-hpc-ai-talk.pdf" target="_blank"> Let's talk about where and how I can fit in your HPC/AI environment </a>
+
 
 <a href="nkt-sample-scanned-certifications.pdf" target="_blank"> You can see my certifications here (not all inclusive) </a>
 
@@ -31,9 +31,17 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 <br>
 <br>
 
-<a href="nkt-sample-home-lab-setup-geeking-out.pdf" target="_blank"> Geeking out on my home lab storage server : luns provisioned and nas shares across linux, windows, mac </a>
+AI / HPC RELATED:
 
-<a href="nkt-sample-storage-migration-lab-documentation.pdf" target="_blank"> Updated custom built storage server to a more robust platform storage server </a>
+<a href="nkt-hpc-ai-talk.pdf" target="_blank"> Let's talk about where and how I can fit in your HPC/AI environment </a>
+
+<a href="nkt-sample-b200-setup.pdf" target="_blank"> Bringing up a bare metal million dollar B200 system </a>
+
+<a href="nkt-sample-ai-fleet-maintenance" target="_blank"> Evidence of AI Fleet Maintenance work </a>
+
+<a href="nkt-sample-sr680-rack-power-layout-concerns.pdf" target="_blank"> Rack Power layout audit of AI systems (8 gpu clusters)  of h200, h100, b200, mi300x </a>
+
+<a href="nkt-sample-sr680-current-rack-inventory.pdf" target="_blank"> Inventory audit of existing deployed AI systems </a>
 
 <a href="nkt-sample-proxmox-vm-clusters.pdf" target="_blank"> Enterprise Proxmox Virtual Environment - Kubernetes Cluster - proof of concept build </a>
 
@@ -41,37 +49,45 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 
 <a href="nkt-sample-hpc-ha-cluster-build.pdf" target="_blank"> HPC/HA Linux Cluster - proof of concept build </a>
 
-<a href="nkt-sample-storage-architecture-redeployment-proposal.pdf" target="_blank"> Redesign of Storage Architecture Framework for Resiliency </a>
-
-<a href="nkt-sample-sr680-rack-power-layout-concerns.pdf" target="_blank"> Rack Power layout audit of AI systems (8 gpu clusters)  of h200, h100, b200, mi300x </a>
-
-<a href="nkt-sample-sr680-current-rack-inventory.pdf" target="_blank"> Inventory audit of existing deployed AI systems </a>
-<br>
-<br>
-
 <a href="nkt-sample-linux-aiml-panic-updates.pdf" target="_blank"> Evidence of Linux AI/ML Infrastructure compute nodes management and support </a>
+<br>
+<br>
 
-<a href="nkt-sample-ece-arista-cisco-lab-rebuild.pdf" target="_blank"> Rebuilt the Arista/Cisco Network Learning Lab for Dept of Electrical and Computer Engineering at NCSU </a>
+DATACENTER AND DEPLOYMENTS RELATED:
+
+<a href="nkt-sample-datacenter-lab-design-mapping.pdf" target="_blank"> Revised data center layout draft with best practices design </a>
 
 <a href="nkt-sample-how-to-datacenter.pdf" target="_blank"> HOW TO data center, good standards and best practices compared to how NOT to </a>
 
 <a href="nkt-sample-how-to-not-datacenter.pdf" target="_blank"> How to NOT data center, maybe a little salvation at the end ;-) </a>
 
+<a href="nkt-sample-ece-arista-cisco-lab-rebuild.pdf" target="_blank"> Rebuilt the Arista/Cisco Network Learning Lab for Dept of Electrical and Computer Engineering at NCSU </a>
+
 <a href="nkt-sample-test-array-redesign-redeployment.pdf" target="_blank"> FIXED and CORRECTED an incorrect, misconfigured initially deployed QA testbed environment </a>
+
+<a href="nkt-sample-dcim-rack-buildout.pdf" target="_blank"> Data Center Infrastructure Management (DCIM) 3D rack proof of concepts drawing </a>
+
+<a href="nkt-sample-rack-drawings.pdf" target="_blank"> Sample Rack Diagram Drawings </a>
+<br>
+<br>
+
+STORAGE ENGINEERING RELATED:
+
+<a href="nkt-sample-storage-architecture-redeployment-proposal.pdf" target="_blank"> Redesign of Storage Architecture Framework for Resiliency </a>
+
+<a href="nkt-sample-home-lab-setup-geeking-out.pdf" target="_blank"> Geeking out on my home lab storage server : luns provisioned and nas shares across linux, windows, mac </a>
+
+<a href="nkt-sample-storage-migration-lab-documentation.pdf" target="_blank"> Updated custom built storage server to a more robust platform storage server </a>
 
 <a href="nkt-sample-nfs-lab-setup-troubleshooting-validation.pdf" target="_blank"> NFS lab : Setup and Troubleshooting </a>
 
 <a href="nkt-sample-solaris-hosts-backups.pdf" target="_blank"> Solaris storage pools backup, lun creations, nas sharing </a>
 
-<a href="nkt-sample-datacenter-lab-design-mapping.pdf" target="_blank"> Revised data center layout draft with best practices design </a>
-
-<a href="nkt-sample-dcim-rack-buildout.pdf" target="_blank"> Data Center Infrastructure Management (DCIM) 3D rack proof of concepts drawing </a>
-
-<a href="nkt-sample-rack-drawings.pdf" target="_blank"> Sample Rack Diagram Drawings </a>
-
 <a href="nkt-sample-tsm-internal-projects.pdf" target="_blank"> Tivoli Storage Manager (TSM) internal projects, in my early career </a>
 
+
 <a href="nkt-sample-guide-creation.pdf" target="_blank"> Nearly 500 pages of installation/configuration guide - documentation </a>
+
 <br>
 <br>
 

@@ -39,7 +39,7 @@ AI / HPC RELATED:
 
 <a href="nkt-sample-ai-fleet-maintenance" target="_blank"> Evidence of AI Fleet Maintenance work </a>
 
-<a href="nkt-sample-sr680-rack-power-layout-concerns.pdf" target="_blank"> Rack Power layout audit of AI systems (8 gpu clusters)  of h200, h100, b200, mi300x </a>
+<a href="nkt-sample-sr680-rack-power-layout-concerns.pdf" target="_blank"> Rack power layout audit of AI systems (8 gpu clusters)  of h200, h100, b200, mi300x </a>
 
 <a href="nkt-sample-sr680-current-rack-inventory.pdf" target="_blank"> Inventory audit of existing deployed AI systems </a>
 

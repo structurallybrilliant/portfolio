@@ -35,7 +35,7 @@ AI / HPC RELATED:
 
 <a href="nkt-hpc-ai-talk.pdf" target="_blank"> Let's talk about where and how I can fit in your HPC/AI environment </a>
 
-<a href="nkt-sample-b200-setup.pdf" target="_blank"> Bringing up a bare metal million dollar B200 system </a>
+<a href="nkt-sample-8gpu-systems.pdf" target="_blank"> Bringing up bare metal million dollar systems ((b200, h200) </a>
 
 <a href="nkt-sample-ai-fleet-maintenance.pdf" target="_blank"> Evidence of AI Fleet Maintenance work </a>
 
